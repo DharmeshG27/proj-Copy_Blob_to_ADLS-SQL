@@ -1,0 +1,9 @@
+{
+	"name": "ADF-CloudProject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1de90d7f-3d10-467c-93c3-4490f7af597d",
+		"tenantId": "93f748da-a9a6-4c83-b39f-dc353b4b98ef"
+	}
+}
